@@ -1,0 +1,685 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.10.13)  5 NOV 2023 00:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document
+(/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2022/02/01 v23.2 Persian typesetting in XeLaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count190
+\l__color_backend_stack_int=\count191
+\g__color_backend_stack_int=\count192
+\g__graphics_track_int=\count193
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count194
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count197
+\l__fontspec_language_int=\count198
+\l__fontspec_strnum_int=\count199
+\l__fontspec_tmp_int=\count266
+\l__fontspec_tmpa_int=\count267
+\l__fontspec_tmpb_int=\count268
+\l__fontspec_tmpc_int=\count269
+\l__fontspec_em_int=\count270
+\l__fontspec_emdef_int=\count271
+\l__fontspec_strong_int=\count272
+\l__fontspec_strongdef_int=\count273
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count274
+\XePersian@y=\count275
+\XePersian@m=\count276
+\XePersian@d=\count277
+\XePersian@latini=\count278
+\XePersian@persiani=\count279
+\XePersian@latinii=\count280
+\XePersian@persianii=\count281
+\XePersian@latiniii=\count282
+\XePersian@persianiii=\count283
+\XePersian@latiniv=\count284
+\XePersian@persianiv=\count285
+\XePersian@latinv=\count286
+\XePersian@persianv=\count287
+\XePersian@latinvi=\count288
+\XePersian@persianvi=\count289
+\XePersian@latinvii=\count290
+\XePersian@persianvii=\count291
+\XePersian@latinviii=\count292
+\XePersian@persianviii=\count293
+\XePersian@latinix=\count294
+\XePersian@persianix=\count295
+\XePersian@latinx=\count296
+\XePersian@persianx=\count297
+\XePersian@latinxi=\count298
+\XePersian@persianxi=\count299
+\XePersian@latinxii=\count300
+\XePersian@persianxii=\count301
+\XePersian@persianxiii=\count302
+\XePersian@temp=\count303
+\XePersian@temptwo=\count304
+\XePersian@tempthree=\count305
+\XePersian@yModHundred=\count306
+\XePersian@thirtytwo=\count307
+\XePersian@dn=\count308
+\XePersian@sn=\count309
+\XePersian@mminusone=\count310
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
+Package: xepersian-mathsdigitspec 2022/02/01 v1.1.8 Unicode Persian maths digits in XeLaTeX
+) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v36.4, 2022/02/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/tex-persian/bidi/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2022/02/01 v2.1 Programming tools for bidi package
+\@bidi@envbody=\toks17
+\@bidi@emptytoks=\toks18
+\bidi@poscount=\count311
+\bidi@tempcountb=\count312
+\bidi@temptoksa=\toks19
+\bidi@temptoksb=\toks20
+\bidi@dummies=\count313
+\bidi@are@these@correct=\toks21
+\bidi@toks@lista=\toks22
+\bidi@toks@listb=\toks23
+\bidi@stack@length=\count314
+\bidi@empty@stack=\toks24
+\bidi@looprepeat@depth=\count315
+)
+==> First Aid for biditools.sty no longer applied!
+    Expected:
+        2020/05/13 v2 Programming tools for bidi package
+    but found:
+        2022/02/01 v2.1 Programming tools for bidi package
+    so I'm assuming it got fixed.
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count316
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count317
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+ (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' for XeTeX engine
+\bidi@n@everypar=\toks27
+\bidi@column@check@number=\count318
+ (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX engine
+\c@footdir@label=\count319
+\footdir@toks=\toks28
+) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/report-xetex-bidi.def
+File: report-xetex-bidi.def 2017/06/09 v0.8 bidi adaptations for standard report class for XeTeX engine
+) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
+)) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the last package loaded
+)
+\bidi@digits=\count320
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.2, 2022/02/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/tex-persian/xepersian/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count321
+\xepersian@ilg=\dimen144
+\xepersian@strutilg=\dimen145
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is the last package loaded
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian package
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/report-xepersian.def
+File: report-xepersian.def 2010/07/25 v0.2 adaptations for standard report class
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalicFont={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromanslant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+
+)
+
+Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
+(fontspec)             Niloofar' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"XB
+(fontspec)             Niloofar/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
+(fontspec)             Niloofar/B/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
+(fontspec)             Niloofar/I/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
+(fontspec)             Niloofar/BI/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 13.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+File: 3.png Graphic file (type bmp)
+<3.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+]
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:31: Missing $ inserted.
+<inserted text> 
+                $
+l.31 ...برای مسیر فایل CSV حاوی اطلاعات ورود (csv_
+                                                  file)، مسیر فایل خروجی برا...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ، ("60C) in font cmr10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ل ("644) in font cmmi10!
+Missing character: There is no خ ("62E) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ج ("62C) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ن ("646) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ج ("62C) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ل ("644) in font cmmi10!
+Missing character: There is no ح ("62D) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no آ ("622) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ش ("634) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ن ("646) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+
+Overfull \hbox (31.97372pt too wide) in paragraph at lines 31--32
+[][]\TU/XBNiloofar(0)/m/n/10 در ابتدا، متغیرهایی برای مسیر فایل CSV حاوی اطلاعات ورود (csv$[]\OML/cmm/m/it/10 ile\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 output[]ile\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 CSVIP\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 IPs\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :$ []
+ []
+
+File: finding_password.png Graphic file (type bmp)
+<finding_password.png>
+
+Overfull \hbox (11.27026pt too wide) in paragraph at lines 41--42
+ [][][][][] 
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+[][]
+ []
+
+File: 1.png Graphic file (type bmp)
+<1.png>
+
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:65: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ا
+      ین برنامه یک فایل Dockerfile است که برای ساخت یک تصویر Docker استفاده ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75 ...cho، تنظیمات SSH را در فایل /etc/ssh/sshd_
+                                                  config اعمال می‌کنیم. اجاز...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ل ("644) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmmi10!
+Missing character: There is no ن ("646) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ج ("62C) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ش ("634) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ح ("62D) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ل ("644) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ش ("634) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no پ ("67E) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ، ("60C) in font cmr10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ض ("636) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ش ("634) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ب ("628) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no ه ("647) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ، ("60C) in font cmr10!
+Missing character: There is no س ("633) in font cmmi10!
+Missing character: There is no ط ("637) in font cmmi10!
+Missing character: There is no ح ("62D) in font cmmi10!
+Missing character: There is no ن ("646) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ف ("641) in font cmmi10!
+Missing character: There is no ز ("632) in font cmmi10!
+Missing character: There is no ا ("627) in font cmmi10!
+Missing character: There is no ر ("631) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ت ("62A) in font cmmi10!
+Missing character: There is no ع ("639) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ن ("646) in font cmmi10!
+Missing character: There is no م ("645) in font cmmi10!
+Missing character: There is no ی ("6CC) in font cmmi10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ش ("634) in font cmmi10!
+Missing character: There is no و ("648) in font cmmi10!
+Missing character: There is no د ("62F) in font cmmi10!
+
+Overfull \hbox (208.85817pt too wide) in paragraph at lines 75--76
+[][]\TU/XBNiloofar(0)/m/n/10 در دستور بعدی، با استفاده از دستور echo، تنظیمات SSH را در فایل /etc/ssh/sshd$[]\OML/cmm/m/it/10 onfig:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 PermitRootLogin\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 PasswordAuthentication\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :rc \OMS/cmsy/m/n/10 ^^@$[]
+ []
+
+[2]
+Overfull \hbox (1.29887pt too wide) in paragraph at lines 89--90
+[]\TU/XBNiloofar(0)/m/n/10 این شامل بروزرسانی بسته‌ها (apk update)، نصب بسته‌های busybox-extras، busybox-openrc،[]
+ []
+
+File: attacker_container.png Graphic file (type bmp)
+<attacker_container.png>
+
+/media/sadegh/FULL/eLearning/code/Term7/Security/Irdium_sayin/Doc/document.tex:101: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 د
+       ر قسمت attacker  هم یک برنامه تحت وب توسط زده شده. django زده شده است...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: run_ssh.png Graphic file (type bmp)
+<run_ssh.png>
+
+Overfull \hbox (38.02852pt too wide) in paragraph at lines 118--119
+ [][][][][] 
+ []
+
+[3]
+File: database.png Graphic file (type bmp)
+<database.png>
+
+Overfull \hbox (93.97095pt too wide) in paragraph at lines 122--123
+ [][][][][] 
+ []
+
+[4] (./document.aux) ) 
+Here is how much of TeX's memory you used:
+ 6123 strings out of 478149
+ 161008 string characters out of 5853101
+ 588163 words of memory out of 5000000
+ 26633 multiletter control sequences out of 15000+600000
+ 472195 words of font info for 62 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 88i,8n,97p,1106b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on document.pdf (5 pages).
